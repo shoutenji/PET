@@ -1,4 +1,6 @@
-﻿script installation
+﻿![Alt text](pet_banner2.jpg?raw=true "Title")
+
+script installation
 ---------------------------------------------
 0) create at least one joint in the scene (otherwise the script will fail)
 1) open maya and open a python script tab
