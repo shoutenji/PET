@@ -1,4 +1,4 @@
-﻿![Alt text](pet_banner2.jpg?raw=true "Title")
+﻿[[https://github.com/shoutenji/PET/pet_banner2.jpg.png|alt=img]]
 
 script installation
 ---------------------------------------------
