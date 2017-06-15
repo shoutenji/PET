@@ -1,4 +1,4 @@
-﻿[[https://github.com/shoutenji/PET/pet_banner2.png|alt=img]]
+﻿[[https://github.com/shoutenji/PET/pet_banner2.jpg|alt=img]]
 
 script installation
 ---------------------------------------------
