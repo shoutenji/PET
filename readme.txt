@@ -1,9 +1,8 @@
-﻿[[https://github.com/shoutenji/PET/pet_banner2.jpg|alt=img]]
+﻿A Maya Python script for exporting a custom rig as an FBX file ready to imported into Unreal Engine 4.
 
-script installation
----------------------------------------------
-0) create at least one joint in the scene (otherwise the script will fail)
-1) open maya and open a python script tab
-2) copy and paste contents of PET_shelf_command.py into tab
-3) highlight code with ctrl+A, hold down right mouse button, then select "execute" from the pop-up menu
-4) the menu should appear
+## Script Installation Instructions
+* Open the phor model file
+* Open a python script tab in the script editor
+* Copy and paste contents of PET_shelf_command.py into tab (you can MMB drag this to the shelf to create a shelf icon)
+* Highlight code with ctrl+A, hold down right mouse button, then select "execute" from the pop-up menu
+* The menu should appear
